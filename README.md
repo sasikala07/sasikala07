@@ -14,6 +14,7 @@ This is **Sasikala S**,MTech graduated 2019 and I am a ***DataScience*** enthusi
 |Deep Learning|Basic Computer vision, Neural Network, Execution with Python|
 |Data Visualization Tool|Basic PowerBI|
 |Cloud|Basic AWS|
+|WebDevvelopment FrontEnd and BackEnd|Html,CSS,javascript,Django|
 |Operating System|Ubuntu, Windows10|
 
 # Skills Elaborations
