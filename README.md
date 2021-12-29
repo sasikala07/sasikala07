@@ -1,6 +1,6 @@
 # About Me
 
-This is **Sasikala S**,MTech graduated 2019 and I am a **DataScience** enthusiast.I have insights into **Machine Learning,Natural Preprocessing,Data analysing,visualizing**.
+This is **Sasikala S**,MTech graduated 2019 and I am a ***DataScience*** enthusiast.I have insights into ***Machine Learning,Natural Preprocessing,Data analysing,visualizing***.
 
 # Skills
 
@@ -12,6 +12,7 @@ This is **Sasikala S**,MTech graduated 2019 and I am a **DataScience** enthusias
 |Machine Learning|EDA, ML-ALgorithms, Execution with python|
 |Natural Language Processing|Neural Network, Execution with Python|
 |Deep Learning|Basic Computer vision, Neural Network, Execution with Python|
+|Data Visualization Tool|Basic PowerBI|
 |Cloud|Basic AWS|
 |Operating System|Ubuntu, Windows10|
 
