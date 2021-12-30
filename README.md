@@ -11,7 +11,7 @@ This is **Sasikala S**,MTech graduated 2019 and I am a ***DataScience*** enthusi
 |Tools/IDE|PyCharm, JupyterNotebook|
 |Machine Learning|EDA, ML-ALgorithms, Execution with python|
 |Natural Language Processing|Neural Network, Execution with Python|
-|Deep Learning|Basic Computer vision, Neural Network, Execution with Python|
+|Deep Learning|Basic Computer vision, Neural Network and Execution with Python|
 |Data Visualization Tool|Basic PowerBI|
 |Cloud|Basic AWS|
 |WebDevvelopment FrontEnd and BackEnd|Html,CSS,javascript,Django|
@@ -24,5 +24,5 @@ This is **Sasikala S**,MTech graduated 2019 and I am a ***DataScience*** enthusi
 |Python|Numpy, Pandas, Scikit-Learn, ,Matplotlib, Seaborn, pickle, Joblib, Plotly,Open-cv,,Nltk, Tensorflow, Keras|
 |Machine Learning|Logistic Regression, Ensemble Technique, Hyper Parameter tuning|
 |Deep Learning| Basic Convolutional Neural Network, AlexNet|
-|Computer Vision|Basic Yolo ALgorithm, Object detection|
+|Computer Vision|Basic Yolo ALgorithm and Object detection|
 |NLP|Encoder-Decoder,Transformer|
