@@ -1,6 +1,6 @@
 # About 
 
-This is **Sasikala S**,MTech graduated 2019 and I am a ***DataScience*** enthusiast.I have insights into ***Machine Learning,Data analysing,visualizing and Natural Language Preprocessing***.
+This is **Sasikala S**,MTech graduated 2019 and completed one year training in DastaScience. I am a ***DataScience*** enthusiast.I have insights into ***Machine Learning,Data analysing,visualizing and Natural Language Preprocessing***.
 
 # Skills
 
