@@ -13,7 +13,7 @@ This is **Sasikala S**,MTech graduated 2019 and completed one year training in D
 |Deep Learning|Basic Computer vision, Neural Network and Execution with Python|
 |Data Visualization Tool|Basic PowerBI|
 |Cloud|Basic AWS|
-|WebDevvelopment FrontEnd and BackEnd|Html,CSS,javascript,Django|
+|WebDevvelopment FrontEnd and BackEnd|Html,CSS,Flask(Basic)|
 |Operating System|Ubuntu, Windows10|
 
 # Skills Elaborations
@@ -21,7 +21,7 @@ This is **Sasikala S**,MTech graduated 2019 and completed one year training in D
 |Skills|Techologies used to worked or Known|
 |----|----|
 |Python|Numpy, Pandas, Scikit-Learn, ,Matplotlib, Seaborn, pickle, Joblib, Plotly,Nltk, Tensorflow, Keras|
-|Machine Learning|Logistic Regression, Ensemble Technique, Hyper Parameter tuning|
+|Machine Learning|Logistic Regression,RandomForest Regression/classification, Ensemble Technique, Hyper Parameter tuning|
 |Deep Learning| Basic Convolutional Neural Network, AlexNet|
 |Computer Vision|Basic Yolo ALgorithm and Object detection|
 |NLP|Encoder-Decoder,Transformer|
