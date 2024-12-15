@@ -1,6 +1,6 @@
 # About 
 
-This is **Sasikala S**,MTech graduated 2019 and completed one year training in DastaScience. I am a ***DataScience*** enthusiast.I have insights into ***Machine Learning,Data analysing,visualizing and Natural Language Preprocessing***.
+This is **Sasikala S**,MTech graduated in Cyber Forensic and Information Security 2019 and completed one year training in DastaScience.I am a Cyber Security enthusiast with 2 years of experience teaching Cyber Forensics. I have expertise in Data Science, including Machine Learning, Data Analysis, Visualization, and Natural Language Processing. Passionate about leveraging data-driven solutions to address security challenges and continuously learning new technologies to enhance cybersecurity practices.
 
 # Skills
 
